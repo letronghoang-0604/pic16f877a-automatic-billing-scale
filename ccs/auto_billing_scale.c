@@ -104,7 +104,7 @@ void main() {
     lcd_gotoxy(1, 1);  
     printf(lcd_putc, "  CAN TINH TU DONG  ");
     lcd_gotoxy(1, 2);  
-    printf(lcd_putc, "TO VAN HA - 42001010");
+    printf(lcd_putc, "NAME");
     lcd_gotoxy(1, 3);  
     printf(lcd_putc, " Dang khoi dong... ");
     lcd_gotoxy(1, 4);  
