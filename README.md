@@ -57,7 +57,7 @@ Typical pin usage in the example code:
 
 ## Code Overview
 
-Main source file: `auto_billing_scale.c` (original name: `main001.c`, placed under the `code/` folder). :contentReference[oaicite:4]{index=4}  
+Main source file: `auto_billing_scale.c`
 
 Key points:
 
